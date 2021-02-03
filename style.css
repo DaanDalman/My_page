@@ -25,10 +25,10 @@ h2 {
 }
 
 button {
-    padding: 5px;
-    background-color: rgba(236,210,153,255);
-    border-radius: 3px;
-    color: #03506f;
+  color: white;
+  background-color: rgb(110,110,110);
+  padding: 10px 30px;
+  border-radius: 3px;
 }
 
 button:hover {
